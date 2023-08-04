@@ -9,9 +9,9 @@
 
 <img align="middle" alt="pascal" width="70px" src="https://wiki.freepascal.org/images/4/4f/fpc_running_logo.gif" /> <img align="middle" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /> <img align="middle" alt="c++" width="35px" src="https://i.imgur.com/h0oxKKq.png" /><img align="middle" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" /> <img align="middle" alt="mongodb" width="35x" src="https://imgur.com/xN5cFRr.png" />
 --
-**My activity: **
+**My activity:**
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=peterProgramer&count_private=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterProgramer&layout=compact&theme=tokyonight" />
 </p>
