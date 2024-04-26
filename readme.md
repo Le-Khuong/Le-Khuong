@@ -2,6 +2,7 @@
 **👋 Welcome to Peter's GitHub Page!**
 - Im from vietnam 
 -  Self taught programmer
+- High school student
 -    Currently learning c++ and javascript!
 
 **Language and tools:**
